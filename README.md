@@ -49,7 +49,7 @@ Para entender la filosofía detrás de este laboratorio y detalles técnicos adi
 ### 1. Instalación
 
 ```bash
-git clone https://github.com/froddodev/jitter.git
+git clone https://github.com/freddyhcode/jitter.git
 cd jitter
 npm install
 ```
